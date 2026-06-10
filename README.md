@@ -1,5 +1,19 @@
 # Anomaly Detection in Credit Card Transactions
 
+## Overview
+Developed a Power BI dashboard to identify fraudulent credit card transactions and analyze anomaly patterns.
+
+## Tools Used
+- Power BI
+- Excel
+- DAX
+
+## Key Insights
+- Fraudulent transaction detection
+- Transaction amount analysis
+- Customer behavior patterns
+- Interactive visualizations
+  
 ## Dashboard Preview
 
 ### Dashboard 1
